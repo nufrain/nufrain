@@ -6,5 +6,6 @@
  <a href="https://www.instagram.com/nufrain" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-
+<p align="center">
  ![Nufrain](https://github-readme-stats.vercel.app/api?username=aloshai&show_icons=true&hide_title=true&theme=radical&text_color=000000)
+</a>
