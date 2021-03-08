@@ -8,6 +8,6 @@
 
 
 
-<h1 align="center">![Nufrain's github stats](https://github-readme-stats.vercel.app/api?username=aloshai&show_icons=true&hide_title=true&theme=radical&text_color=000000)</h1>
+![Nufrain's github stats](https://github-readme-stats.vercel.app/api?username=aloshai&show_icons=true&hide_title=true&theme=radical&text_color=000000)
 
 
