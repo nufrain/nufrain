@@ -7,7 +7,5 @@
 
 
 
-
-<h1 align="center"> (https://github-readme-stats.vercel.app/api?username=aloshai&show_icons=true&hide_title=true&theme=radical&text_color=000000)</h1>
-
+ (https://github-readme-stats.vercel.app/api?username=aloshai&show_icons=true&hide_title=true&theme=radical&text_color=000000)
 
