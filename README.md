@@ -8,7 +8,6 @@
 
 
 
-![Nufrain's github stats](https://github-readme-stats.vercel.app/api?username=aloshai&show_icons=true&hide_title=true&theme=radical&text_color=000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloshai&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=000000)](https://github.com/aloshai/github-readme-stats)
+<h1 align="center">![Nufrain's github stats](https://github-readme-stats.vercel.app/api?username=aloshai&show_icons=true&hide_title=true&theme=radical&text_color=000000)</h1>
 
 
