@@ -1,4 +1,4 @@
-<h1 align="center">Bora ALBAYRAK</h1>
+<h1 align="center">Nufrain</h1>
 
 <p align="center">
  <a href="https://discord.com/users/788753066584571914" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
