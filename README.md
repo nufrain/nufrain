@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.com/users/791218733502038026"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/821690743587471400"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/nufrain"><img src="https://img.shields.io/badge/Github%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://www.instagram.com/nufrain" target"blank_"><img src="https://img.shields.io/badge/Instagram%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </p>
