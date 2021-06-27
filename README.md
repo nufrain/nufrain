@@ -5,4 +5,5 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821690743587471400?theme=light&bg=1d202b&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/821690743587471400)
 
-  CAT 💖 NUFRAIN
+ 
+<a href="https://discord.com/users/821690743587471400"><img src="https://img.shields.io/badge/CAT 💖 NUFRAIN%20-1d202b.svg?&style=for-the-badge&logo=&logoColor=orange"></a>
