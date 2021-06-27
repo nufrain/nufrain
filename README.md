@@ -3,6 +3,6 @@
   <a href="https://github.com/nufrain"><img src="https://img.shields.io/badge/Github%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/nufrain"><img src="https://img.shields.io/badge/Instagram%20-1d202b.svg?&style=for-the-badge&logo=instagram&logoColor=orange"></a>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821690743587471400?theme=black&bg=E3F0FF&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/821690743587471400)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821690743587471400?theme=dark&bg=E3F0FF&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/821690743587471400)
 
   CAT 💖 NUFRAIN
