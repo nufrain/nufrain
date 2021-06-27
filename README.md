@@ -4,10 +4,4 @@
  <a href="https://www.instagram.com/nufrain" target"blank_"><img src="https://img.shields.io/badge/Instagram%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </p>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nufrain&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-  <br><br>
-</div>
-
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821690743587471400?theme=light&bg=E3F0FF&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/821690743587471400)
